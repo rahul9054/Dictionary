@@ -18,7 +18,8 @@ body {
 nav {
     background: #553C9A;
     color: #fff;
-    padding: 1rem 0;
+    padding: 12px;
+    text-align: center;
 }
 section.input {
     padding-top: 100px;

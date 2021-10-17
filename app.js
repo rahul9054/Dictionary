@@ -1,4 +1,4 @@
-let apiKey = '' ;
+let apiKey = 'a3fadf85-cf00-45ed-8977-00ad7572ec09' ;
 let input = document.querySelector('#input');
 let searchBtn = document.querySelector('#search');
 let notFound = document.querySelector('.not__found');
